@@ -1,4 +1,4 @@
-<div dir="rtl" markdown="2">
+<div dir="rtl" markdown="0">
 
 # **פרוייקט SQL**
 
