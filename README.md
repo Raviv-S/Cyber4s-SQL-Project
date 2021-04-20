@@ -136,7 +136,7 @@
 משקל הדירוג של כל שחקן תלוי בניקוד הסופי שהשחקן יקבל בסוף המשחק (הסבר על הניקוד הסופי של השחקן ינתן בהמשך) כלומר, שחקן שנתן לשאלה מסויימת דירוג 3 והוא סיים את המשחק אחרי שהוא ענה נכון על 50 שאלות יחשב יותר מאשר שחקן שנתן לשאלה מסויימת דירוג 1 וענה נכון רק על 5 שאלות עד שנפסל. 
 כך יחושב הדירוג:
 
-Score = [(Player A question rating) * (Player A final score) +... + (Player Y question rating)  (Player X final score)] / [(Player A final score) + ... + (Player Y final score)]
+> Score = [(Player A question rating) * (Player A final score) +... + (Player Y question rating)  (Player X final score)] / [(Player A final score) + ... + (Player Y final score)]
 
 לדוגמה, אם שחקן A דירג 3 וסיים עם 200 נקודות, שחקן B דירג 5 וסיים עם 1000 נקודות ושחקן C דירג 2 וסיים עם 400 נקודות אז הדירוג הסופי יהיה:
 
