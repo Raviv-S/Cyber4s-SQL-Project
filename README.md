@@ -1,7 +1,7 @@
 [logo]:  "Logo Title Text 2"
-	&#10549;&#65039;
-<div dir="rtl" markdown="1">
 
+<div dir="rtl" markdown="1">
+	&#10549;&#65039;
 # **פרוייקט SQL**
 
 בפרוייקט אתם תבנו משחק טריוויה על מדינות העולם.
