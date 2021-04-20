@@ -82,25 +82,27 @@
 
 עליכם להוסיף לפחות 4 תבניות נוספות משלכם על נתונים נוספים הקיימים במאגרים.
 
-Type 1:
+### Type 1:
 * Which country is most populous? 
 * Which country is least populous? 
-Which country is the largest by total area?
-Which country is the smallest by total area?
-Which country is the most densely populated? 
-Which country is the least densely populated? 
-Which country has the most cell phones per person?
-Type 2:
-What is the capital of X?
-How many people live in X?
-In what continent is X?
-Type 3:
-Are there more people in X than in Y?
-Is X larger than Y?
-Does X have a higher population density than Y? 
-Is the quality of life in X higher than the quality of life in Y?
-Is the crime rate of X higher than the crime rate in Y? 
-Are restaurants in X more expensive than restaurants in Y?
+* Which country is the largest by total area?
+* Which country is the smallest by total area?
+* Which country is the most densely populated? 
+* Which country is the least densely populated? 
+* Which country has the most cell phones per person?
+
+### Type 2:
+* What is the capital of X?
+* How many people live in X?
+* In what continent is X?
+
+### Type 3:
+* Are there more people in X than in Y?
+* Is X larger than Y?
+* Does X have a higher population density than Y? 
+* Is the quality of life in X higher than the quality of life in Y?
+* Is the crime rate of X higher than the crime rate in Y? 
+* Are restaurants in X more expensive than restaurants in Y?
 
 
 # דירוג שאלות ושמירתן
