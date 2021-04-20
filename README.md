@@ -1,3 +1,5 @@
+[logo]: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/man-superhero_1f9b8-200d-2642-fe0f.png "Logo Title Text 2"
+
 <div dir="rtl" markdown="1">
 
 # **פרוייקט SQL**
@@ -23,7 +25,7 @@
    
 <br/>
 
-# בניית הסכמה
+# [logo]בניית הסכמה
 
 כדי לתכנן את המאגר בצורה המיטבית יש לקרוא את כל הנחיות הפרוייקט לפני התחלתה בנייה הסכמה.
 
@@ -34,7 +36,7 @@
 שימו לב שייתכן שבחלק מהטבלאות שקיבלתם לא יופיעו כל המדינות.
 
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 
 <br/>
 
