@@ -20,7 +20,8 @@
 
 הבונוס יכלל בציון וכדאי לבצע לפחות 2 בונוסים מהאופציות שינתנו.
 
-> abc
+
+
 
 # בניית הסכמה
 
@@ -34,6 +35,9 @@
 
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
+
 
 # ג'נרוט שאלות מתבניות
 
@@ -103,6 +107,8 @@
 * Is the quality of life in X higher than the quality of life in Y?
 * Is the crime rate of X higher than the crime rate in Y? 
 * Are restaurants in X more expensive than restaurants in Y?
+
+
 
 
 # דירוג שאלות ושמירתן
