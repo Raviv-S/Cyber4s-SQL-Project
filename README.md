@@ -23,7 +23,8 @@
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-# ג'נרוט שאלות מתבניות ![alt text][logo]
+[logos]: https://www.flaticon.com/svg/vstatic/svg/786/786432.svg?token=exp=1618950191~hmac=8b93fe254972bece18890e619673c5c6 "Logo Title Text 1"
+# ג'נרוט שאלות מתבניות ![alt text][logos]
 
 כדי לג'נרט שאלות מתוך המאגר שבנינו נצטרך להגדיר תבניות מסויימות שאליהן ניצוק את המידע.
 סוגי תבניות השאלות:
